@@ -1,0 +1,36 @@
+.title {
+    font-weight: bold;
+    margin-top: 20px;
+    color: #1976d2;
+  }
+  
+  .card-horizontal {
+    border-radius: 16px;
+    overflow: hidden;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  
+.table-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vh;
+    color: aliceblue;
+
+}
+
+.table-all{
+    background-color: rgb(43, 43, 43);
+}
+
+.table-header{
+    color: aliceblue;
+}
+
+.table-all .MuiTableCell-root {
+    color: #dbdbdb; /* Cambia el color según lo desees */
+}
+  
